@@ -1,0 +1,5 @@
+.code_index/
+__pycache__/
+*.pyc
+.venv/
+.env_dbf2ee37-0d53-416c-8916-7748075b87f8
