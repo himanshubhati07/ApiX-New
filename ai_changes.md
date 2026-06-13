@@ -9,7 +9,7 @@ COMMIT_MESSAGE: add customer management system api with auth and tests
 
 ## Files Modified
 - /home/prajval/new_fast_api_backend_v2/fast_api_generator_backend/outputs/dbf2ee37-0d53-416c-8916-7748075b87f8/README.md — production-ready API documentation
-- /home/prajval/new_fast_api_backend_v2/fast_api_generator_backend/outputs/dbf2ee37-0d53-416c-8916-7748075b87f8/requirements.txt — runtime and test dependencies
+- /home/prajval/new_fast_api_backend_v2/fast_api_generator_backend/outputs/dbf2ee37-0d53-416c-8916-7748075b87f8/requirements.txt — runtime and test dependencies (email-validator, python-multipart)
 - /home/prajval/new_fast_api_backend_v2/fast_api_generator_backend/outputs/dbf2ee37-0d53-416c-8916-7748075b87f8/.gitignore — ignore tooling and env artifacts
 
 ## Files Added

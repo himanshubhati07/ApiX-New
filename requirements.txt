@@ -9,3 +9,5 @@ pydantic
 pytest
 pytest-asyncio
 httpx
+email-validator
+python-multipart
